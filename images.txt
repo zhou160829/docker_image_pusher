@@ -1,5 +1,10 @@
-elasticsearch:7.10.1
-kibana:7.10.1
+rabbitmq:3.12-management
+canal/canal-server:latest
+nacos/nacos-server:latest
+bladex/sentinel-dashboard:1.8.7
+xuxueli/xxl-job-admin:2.4.1
+redis:7.2.5
+ollama/ollama:latest
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
